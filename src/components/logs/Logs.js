@@ -3,7 +3,6 @@ import Preloader from '../layout/Preloader'
 import LogItem from './LogItem'
 
 const Logs = () => {
-  useEffect(() => {})
   const [logs, setLogs] = useState([])
   const [loading, setLoading] = useState(false)
 
