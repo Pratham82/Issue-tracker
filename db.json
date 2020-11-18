@@ -15,18 +15,18 @@
       "date": "2020-11-17T15:30:33.154Z"
     },
     {
+      "id": 5,
       "message": "Malware detected on system @3454",
       "attention": true,
-      "tech": "Lex Luthor",
-      "date": "2020-11-17T14:33:51.719Z",
-      "id": 5
+      "tech": "Ron Swanson",
+      "date": "2020-11-18T11:27:47.144Z"
     },
     {
+      "id": 6,
       "message": "Test",
       "attention": true,
-      "tech": "Sam Smith",
-      "date": "2020-11-18T11:01:51.050Z",
-      "id": 6
+      "tech": "Sara Wilson",
+      "date": "2020-11-18T11:27:56.233Z"
     }
   ],
   "techs": [
